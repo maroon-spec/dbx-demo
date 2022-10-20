@@ -1,0 +1,14 @@
+{
+    "environments": {
+        "default": {
+            "profile": "DEFAULT",
+            "storage_type": "mlflow",
+            "properties": {
+                "workspace_directory": "/Shared/dbx/projects/dbx-demo",
+                "artifact_location": "dbfs:/dbx/dbx-demo"
+            }
+        }
+    },
+    "inplace_jinja_support": false,
+    "failsafe_cluster_reuse_with_assets": false
+}
