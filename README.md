@@ -13,12 +13,11 @@ https://learn.microsoft.com/ja-jp/azure/databricks/dev-tools/dbx
 
 3. Clone this code both local laptop and Databricks workspace.
 ```
-git clone https://github.com/maroon-spec/dbx-demo.git
-cd dbx-demo.git
+$ git clone https://github.com/maroon-spec/dbx-demo.git
+$ cd dbx-demo.git
 ```
-
 4. configure dbx
-``` $ dbx configure
+``` $ dbx configure```
 
 5. Create Cluster in Databricks workspace and get cluster ID information.  
 
