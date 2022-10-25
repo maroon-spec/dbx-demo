@@ -14,7 +14,7 @@ https://learn.microsoft.com/ja-jp/azure/databricks/dev-tools/dbx
 3. Clone this code both local laptop and Databricks workspace.
 ```
 $ git clone https://github.com/maroon-spec/dbx-demo.git
-$ cd dbx-demo.git
+$ cd dbx-demo
 ```
 4. configure dbx
 ``` $ dbx configure```
