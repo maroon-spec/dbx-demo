@@ -16,10 +16,10 @@ https://learn.microsoft.com/ja-jp/azure/databricks/dev-tools/dbx
 $ git clone https://github.com/maroon-spec/dbx-demo.git
 $ cd dbx-demo
 ```
-4. configure dbx
+4. create dbx project
 ``` $ dbx configure```
 
-5. Create Cluster in Databricks workspace and get cluster ID information.  
+5. Create Cluster in Databricks workspace.  
 
 6. Run code in local IDE
-```dbx execute --cluster-id <cluster ID> dbx-demo-job --no-package```
+```dbx execute --cluster-name <cluster-name> dbx-demo-job --no-package```
